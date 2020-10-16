@@ -35,7 +35,7 @@ def covert_coordinate_from_DC_to_4326(lat,lon):
 # In[3]:
 
 
-all_boundary=pd.read_csv('../Scooter_study/Washington_DC_26985Boundary.csv')
+all_boundary=pd.read_csv('Washington_DC_26985Boundary.csv')
 
 
 # In[4]:
